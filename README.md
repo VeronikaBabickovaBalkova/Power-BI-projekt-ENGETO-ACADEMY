@@ -7,13 +7,13 @@ Základem tothoto projektu jsou robustní datové podklady vytvořené v projekt
 
 Projekt je zaměřen na zobrazení vývoje průměrných cen vybraných komodit v čase.
 
-Přehled
+- Přehled
   - záladní údaje o komoditách: chléb, máslo a mléko:
     - průměrná a max cena komodity v období 2006 - 2018
     - zobrazení cílové hodnoty jednotlivé komodity rovnající se zjištěnému průměru
-Poměr výskytu cen nad a pod průměrem
+- Poměr výskytu cen nad a pod průměrem
   - jedná se grafické vyjádření kalkulovaných hodnot, zda údaj o ceně komodity v daném čase a kraji byl pod či nad zjištěným dlouhodobým průměrem
-Detailní zobrazení vývoje cen
+- Detailní zobrazení vývoje cen
   - detailní náhled na vývoj průměrné ceny komodity 
   - vývoj mezd v ČR, zde byly použity Bookmarks, přepínat můžete mezi variantami:
     - 2006-2018
